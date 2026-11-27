@@ -1,5 +1,5 @@
 # CM-OS
-*CM-OS Alper Pektas tarafından KURUMLARDAN bağımsız olarak geliştirilmiştir.*
+**CM-OS Alper Pektas tarafından KURUMLARDAN bağımsız olarak geliştirilmiştir.**
 [English](#english)
 A bare-metal 32-bit x86 operating system driven by **CM**, a math- and logic-based programming language. 
 Built around memory interval partitioning, inter-region passing 
